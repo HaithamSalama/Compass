@@ -9,9 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <!--New policy required code for ADMob -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="[ca-app-pub-5885985480631370~5651694814]" />
+            android:value="ca-app-pub-5885985480631370~5651694814" />
+        <!--New policy required code for ADMob -->
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
