@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Compass</string>
-    <!--<string name="banner_ad_unit_id">ca-app-pub-5885985480631370~5651694814</string>-->
-    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-5885985480631370/9197038211</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-5885985480631370~5651694814</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-5885985480631370/4185498032</string>
     <string name="degreeSymbol" translatable="false">⁰</string>
 </resources>
